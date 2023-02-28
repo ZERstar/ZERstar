@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Hyperledger, Web Development, Flutter**
 
-- 💬 Ask me about **blockchain, Ethereum**
+- 💬 Ask me about **Blockchain, Ethereum**
 
 - 📫 How to reach me **dumbretejas1@gmail.com**
 
