@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zerstar&label=Profile%20views&color=0e75b6&style=flat" alt="zerstar" /> </p>
 
-- 🌱 I’m currently learning **Hyperledger, Web Development, Flutter**
+- 🌱 I’m currently learning **Hyperledger, Flask, Flutter**
 
 - 💬 Ask me about **Blockchain, Ethereum**
 
