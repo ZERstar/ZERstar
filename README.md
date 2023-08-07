@@ -10,6 +10,7 @@
 - 📫 How to reach me **dumbretejas1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 <p align="left"> 
 </p>
 
