@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dumbretejas1@gmail.com**
 
-<h3 align="left">Connect with me: <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href = "https://www.linkedin.com/in/tejas-dumbre-44aa42183/"> </h3>
+<h3 align="left">Connect with me:  </h3>
 <p align="left"> 
 </p>
 
